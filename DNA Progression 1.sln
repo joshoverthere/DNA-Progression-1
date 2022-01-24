@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DNA Progression 1", "DNA Progression 1.pyproj", "{B47B4E69-0DFA-4A71-8A49-F6453881D359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B47B4E69-0DFA-4A71-8A49-F6453881D359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47B4E69-0DFA-4A71-8A49-F6453881D359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1484A05F-4EAC-442A-903B-91B51EA9F598}
+	EndGlobalSection
+EndGlobal
